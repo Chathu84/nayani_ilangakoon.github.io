@@ -2,7 +2,7 @@
 
 I am currently a Research Scientist studying how wildfires reshape ecosystems, with a particular focus on whether these changes are permanent, semi-permanent, or whether ecosystems ultimately recover with little lasting change. I was born and raised in Sri Lanka, a beautiful tropical island in the Indian Ocean, and my connection to diverse natural landscapes has strongly influenced my interest in understanding environmental change.
 
-![The beautiful Colorado](maroon_bells.jpg)
+![The origin of new conifer tree life](img/conifer_seedling2.jpg)
 
 
 - [My Github](https://github.com/Chathu84)
