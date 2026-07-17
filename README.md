@@ -1,4 +1,4 @@
-# nayani-I.github.io
+# Nayani Ilangakoon
 
 ![Maroon Bells](maroon_bells.jpg)
 
