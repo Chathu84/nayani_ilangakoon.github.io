@@ -17,5 +17,5 @@ I am currently a Research Scientist studying how wildfires reshape ecosystems, w
 <embed type="text/html" src="img/boulder_plot.html" width="600" height="600">
 
 
-## Plot of Boulder Temperature
+## Plot of Yellowstone Temperature
 <embed type="text/html" src="img/yellowstone.html" width="600" height="600">
