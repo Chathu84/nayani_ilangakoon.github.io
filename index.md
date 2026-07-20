@@ -8,5 +8,8 @@ I am currently a Research Scientist studying how wildfires reshape ecosystems, w
 - [My Github](https://github.com/Chathu84)
 - [My LinkedIn](www.linkedin.com/in/nayani-ilangakoon-75823922)
 - [Fire Lab](https://balchfirelab.com/people/nayani-ilangakoon)
-- All other
+
+
+## Map of University of Perdeniya, Sri Lanka 
+<embed type="text/html" src="img/uof.html" width="600" height="600">
   
