@@ -1,5 +1,5 @@
 # Nayani Ilangakoon
 
-![Maroon Bells](maroon_bells.jpg)
+![Profile](img/Ginikanda_Ilangakoon.jpg)
 
 I am Nayani Ilangakoon, a passionate human being who loves how nature works.
